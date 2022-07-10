@@ -1,11 +1,14 @@
 Crypto Tracker is a web App made with the help of goingecko API. React.js is used as a frontend library and Material UI has been used for styling. In this App any individual can see all the trending crypto coins as of now with their current market price , profit or loss percentage in 24 hours and their respective market cap.
+
 <img width="929" alt="image" src="https://user-images.githubusercontent.com/93508784/178132892-4938078c-4909-4cd5-8581-f1ec83fe1369.png">
 
-We have a search bar which can be used to search any coin of your choice from the list of coins
+We have a search bar which can be used to search any coin of your choice from the list of coins and We have a pagination component to move back and forth.
+
 <img width="948" alt="image" src="https://user-images.githubusercontent.com/93508784/178132941-6f8f4ddb-0973-4578-94b2-8a8042c08c47.png">
-We have a pagination component to move back and forth.
+
 
 We can see all the details of a particular coin just by clicking on that coin. We can see the behaviour of the coin in the last 1 day, last 1 month and 3 months and last 1 year by the help of a chart which was implemented with the help of React Chart.js.
+
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/93508784/178133029-1477064b-a61f-4257-9a98-7b5563a3d2cd.png">
 
 
